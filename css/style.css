@@ -1,0 +1,39 @@
+
+      body{
+        background-color: #20034c;}
+      h1{
+        font-family: impact;
+        font-size: 3.12em;
+      }
+      h2{
+        font-family: impact;
+      }
+
+      h3{
+        font-family: helvetica}
+      article{
+        background-color: lightgrey;
+        border-radius:3px;
+        margin-right:50px }
+      nav{
+        font-family: helvetica}
+      section{
+        margin-top:-10px}
+      footer{
+        font-size: 0.7em; 
+        background-color: violet}
+      p{
+        font-family: Helvetica}
+      ul{
+        list-style-type: none;}
+      a:hover{
+        color:yellow;}
+      nav:a:hover{
+        color:pink;}
+      header {
+        background-color: skyblue; 
+        border: 3px solid;
+      }
+      footer {
+        
+      }
